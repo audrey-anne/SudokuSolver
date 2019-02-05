@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="enter_the_sudoku_to_solve_below">Enter the sudoku to solve below:</string>
+    <string name="solveButton">Solve</string>
+    <string name="clearButton">Clear</string>
+    <string name="invalid_sudoku">Invalid Sudoku</string>
+    <string name="empty_grid">The grid is empty</string>
+    <string name="unsolved_sudoku">Unable to resolve this sudoku</string>
+</resources>
